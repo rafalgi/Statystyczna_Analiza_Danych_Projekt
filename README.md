@@ -66,4 +66,4 @@ Dokonano analizy statystycznej i porównania cen akcji Apple Inc. w różnych la
 3. Uruchom notebook `Projekt Statystyczna Analiza Danych.ipynb` w środowisku Jupyter.
 
 ## Kontakt
-Rafał Gibała - rafal.gibala@example.com
+Rafał Gibała - rafal13996@gmail.com
