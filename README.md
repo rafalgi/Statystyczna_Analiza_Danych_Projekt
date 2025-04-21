@@ -18,7 +18,6 @@ Zestaw danych zawiera kompleksowe informacje o dziennych statystykach dotyczący
 ## Pliki
 - `Projekt Statystyczna Analiza Danych.ipynb`: Główny notebook zawierający kod analizy danych.
 - `HistoricalQuotes.csv`: Plik CSV z danymi historycznymi dotyczącymi akcji Apple Inc.
-- `.ipynb_checkpoints/Projekt Stat-checkpoint.ipynb`: Checkpoint notebooka.
 
 ## Analiza
 ### 1. Wczytanie danych
@@ -59,11 +58,6 @@ Regresja liniowa: Cena zamknięcia vs Objętość obrotu (Volume).
 
 ## Wnioski
 Dokonano analizy statystycznej i porównania cen akcji Apple Inc. w różnych latach, wskazując na istotne różnice w rozkładach cen.
-
-## Jak uruchomić projekt
-1. Skopiuj repozytorium na swój lokalny komputer.
-2. Upewnij się, że masz zainstalowane wymagane biblioteki: `pandas`, `numpy`, `scipy`, `sklearn`, `matplotlib`, `seaborn`.
-3. Uruchom notebook `Projekt Statystyczna Analiza Danych.ipynb` w środowisku Jupyter.
 
 ## Kontakt
 Rafał Gibała - rafal13996@gmail.com
